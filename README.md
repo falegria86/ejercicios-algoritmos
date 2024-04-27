@@ -1,3 +1,5 @@
+Mis soluciones a estos ejercicios de algoritmos.
+
 Para correr los tests primero instala las dependencias:
 npm install
 
